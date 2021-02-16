@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="heading">TIC TAC TOE</string>
+    <string name="grid">grid</string>
+    <string name="status">STATUS</string>
+    <string name="restart">RESTART</string>
+    <string name="play">PLAY</string>
+    <string name="exit">EXIT</string>
+    <string name="menu">MENU</string>
+</resources>
